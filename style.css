@@ -1,0 +1,44 @@
+
+
+h1 {
+  text-align: center;
+ 
+}
+h2 {
+  text-align: center;
+}
+table {
+  width: 80%;
+  border-collapse: collapse; 
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.product-table tr:first-child {
+    background-color: blue;
+    color: white;
+}
+
+.product-table tr:nth-child(even) {
+    background-color: lightblue;
+}
+.product-table {
+    margin: 0 auto;
+}
+.contact-container {
+    
+    margin :0 auto; 
+}
+.contact-table {
+    margin: 0 auto;
+    width: auto;
+    background-color: rgb(20, 189, 91); 
+    border-radius: 5%;
+}
+
+button {
+   margin-left: 580px;
+  margin-top: 0px;
+  background-color: aliceblue; 
+}
+
